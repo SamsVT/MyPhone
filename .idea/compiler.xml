@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-AoutRefMapFile=F:\MyPhone\build\classes\java\client\client-MyPhone-refmap.json -AdefaultObfuscationEnv=named:intermediary -Aquiet=true -AoutMapFileNamedIntermediary=F:\MyPhone\build\loom-cache\mixin-map-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2.client.tiny &quot;-AinMapFileNamedIntermediary=C:\Users\Sam Su\.gradle\caches\fabric-loom\1.20.1\net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2\mappings.tiny&quot;" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="MyPhone.main" options="-AoutRefMapFile=F:\MyPhone\build\classes\java\main\MyPhone-refmap.json -AdefaultObfuscationEnv=named:intermediary -Aquiet=true -AoutMapFileNamedIntermediary=F:\MyPhone\build\loom-cache\mixin-map-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2.main.tiny &quot;-AinMapFileNamedIntermediary=C:\Users\Sam Su\.gradle\caches\fabric-loom\1.20.1\net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2\mappings.tiny&quot;" />
+      <module name="MyPhone.test" options="-AoutRefMapFile=F:\MyPhone\build\classes\java\test\test-MyPhone-refmap.json -AdefaultObfuscationEnv=named:intermediary -Aquiet=true -AoutMapFileNamedIntermediary=F:\MyPhone\build\loom-cache\mixin-map-net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2.test.tiny &quot;-AinMapFileNamedIntermediary=C:\Users\Sam Su\.gradle\caches\fabric-loom\1.20.1\net.fabricmc.yarn.1_20_1.1.20.1+build.10-v2\mappings.tiny&quot;" />
+    </option>
+  </component>
+</project>
